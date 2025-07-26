@@ -76,7 +76,7 @@ The project followed a structured approach:
 ##  Project Files
 
 - [Security Architecture Recommendations Report.pdf](Doc/Security_Architecture_Recommendations_Report.pdf)
-- [Presentation Slides (Google Slides)](https://link-to-google-slides.com)
+- [Presentation Slides (Google Slides)](Doc/Security_Architecture_Recommendations_Presentation_Slides.pdf)
 - `video1391791607.mp4` - Executive Summary Video (in Appendix)
 
 
