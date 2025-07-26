@@ -79,11 +79,8 @@ The project followed a structured approach:
 - [Presentation Slides (Google Slides)](https://link-to-google-slides.com)
 - `video1391791607.mp4` - Executive Summary Video (in Appendix)
 
-## 🖼️ Screenshots
 
-> _Add relevant architectural diagrams or dashboards from SIEM/EDR tools if available._
-
-## 🧾 References
+##  References
 
 - [NIST CSF 1.1](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf)
 - [PCI DSS 4.0](https://www.pcisecuritystandards.org)
@@ -91,16 +88,12 @@ The project followed a structured approach:
 - [CISA E-Commerce Best Practices](https://www.cisa.gov)
 
 ---
-
-## 📬 Contact
-
-Prepared by **Ifeanyi Christian Edeh**  
-_Contact or collaborate via GitHub or LinkedIn_  
+  
 
 ## 👩‍💻 Author
 
 **Ifeanyi Christian Edeh**  
-[LinkedIn](#) | [Portfolio](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ifeanyiedeh)   | [Portfolio](#)
 
 ---
 
