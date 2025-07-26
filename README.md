@@ -90,7 +90,7 @@ The project followed a structured approach:
 ---
   
 
-## 👩‍💻 Author
+## Author
 
 **Ifeanyi Christian Edeh**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ifeanyiedeh)   | [Portfolio](#)
