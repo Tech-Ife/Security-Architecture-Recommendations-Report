@@ -95,7 +95,7 @@ The project followed a structured approach:
 **Ifeanyi Christian Edeh**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ifeanyiedeh)   
 
----
 
->  *This project was completed as part of a cybersecurity strategy portfolio. It simulates real-world analysis and recommendations for a growing e-commerce company with evolving security needs.*
+
+
 
